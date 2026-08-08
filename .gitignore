@@ -1,6 +1,4 @@
-__pycache__/
-*.pyc
-library.db
-.DS_Store
-venv/
+node_modules/
 .env
+*.log
+.DS_Store
