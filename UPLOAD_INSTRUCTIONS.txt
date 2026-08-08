@@ -1,0 +1,24 @@
+THIS VERSION IS FLAT FOR EASY GITHUB UPLOAD.
+
+Put these files directly in the GitHub repository root:
+server.js
+package.json
+railway.json
+schema.sql
+seed-admin.js
+db.js
+middleware-auth.js
+auth.js
+books.js
+loans.js
+requests.js
+users.js
+reports.js
+admin.js
+public.js
+
+If you upload files one-by-one, upload ALL of the above to the repository ROOT.
+Do not create a routes folder for this version.
+Keep public/ as a folder if you want the website frontend.
+Railway Root Directory: /
+Start Command: npm start

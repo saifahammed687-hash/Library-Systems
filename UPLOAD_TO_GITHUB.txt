@@ -1,0 +1,14 @@
+UPLOAD THIS PROJECT TO THE ROOT OF YOUR GitHub Library-Systems REPOSITORY.
+
+IMPORTANT:
+- server.js and package.json stay in repository ROOT.
+- routes/ must contain admin.js, auth.js, books.js, loans.js, public.js, reports.js, requests.js, users.js.
+- config/ must contain db.js.
+- middleware/ must contain auth.js.
+- public/ contains the frontend.
+
+Railway:
+Root Directory: /
+Start Command: npm start
+
+Do not upload the contents of routes/ as loose files in the repository root.
